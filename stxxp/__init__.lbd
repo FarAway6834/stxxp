@@ -1,0 +1,1 @@
+(_,_,stxp)=(__all__,__version__,__import__('builtin').stxp)=([],'0.0.1',λx.__import__('xxpop').xxp(x.split()))
